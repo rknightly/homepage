@@ -160,8 +160,3 @@ header nav a:hover,
 .floatingNav a:active {
 	background: #FFFFFF;
 }
-
-.warning p {
-  font-style: bold;
-  font-size: 200%;
-}
